@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Filter</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <h1>SELECT YOUR CHOICE</h1>
+    <div class="tabs">
+        <div id="menTab" class="tab" onclick="selectCategory('Men')">Men</div>
+        <div id="womenTab" class="tab" onclick="selectCategory('Women')">Women</div>
+        <div id="kidsTab" class="tab" onclick="selectCategory('Kids')">Kids</div>
+    </div>
+
+    <div id="productContainer" class="cardContainer">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
