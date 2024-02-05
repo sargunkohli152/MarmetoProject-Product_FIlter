@@ -56,8 +56,8 @@ To run the project locally, follow these steps:
 ## Responsive Design
 The project is designed to be responsive across different devices:
 
-- Mobile (up to 480px width)
-- Tablet (481px to 1024px width)
+- Mobile (up to 767px width)
+- Tablet (768px to 1024px width)
 - Desktop (1025px and above width)
 
 ## Contributing
