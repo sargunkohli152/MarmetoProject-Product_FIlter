@@ -2,9 +2,10 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
-h1{
+.heading{
   text-align: center;
   font-size: 2.5rem;
+  font-weight: 900;
   line-height: 20px;
   margin-top: 3rem;
 }
@@ -132,11 +133,8 @@ img{
 }
 
 @media screen and (max-width:480px){
-  h1{
-    text-align: center;
-    font-size: 2rem;
-    line-height: 20px;
-    margin-top: 3rem;
+  .heading{
+    font-size: 25px;
   }
 
   .cardContainer{
