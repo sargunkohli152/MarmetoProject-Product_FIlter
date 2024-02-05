@@ -9,13 +9,13 @@ Check out the live demo [here](https://monumental-llama-92d507.netlify.app/).
 ## Screenshots
 
 ### Desktop View
-![Desktop View](desktop.png)
+![Desktop View](assets/desktop.png)
 
 ### Tablet View
-![Tablet View](tablet.png)
+![Tablet View](assets/tablet.png)
 
 ### Mobile View
-![Mobile View](mobile.png)
+![Mobile View](assets/mobile.png)
 
 ## Features
 
