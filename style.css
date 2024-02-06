@@ -23,6 +23,7 @@ body {
 
 .tab{
   background-color: #f2f2f2;
+  cursor: pointer;
   display: flex;
   justify-content: center;
   align-items: center;
